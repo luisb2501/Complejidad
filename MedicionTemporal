@@ -1,4 +1,4 @@
-
+//Medición Temporal
 import time
 
 def factorial(n):
