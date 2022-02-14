@@ -134,3 +134,4 @@ def return_squares(n):
 
 nums = [2, 4, 6, 8, 10]
 print(return_squares(nums))
+# link: https://colab.research.google.com/drive/1OJ3Nrek8xLHxqLEWeMCxXmauzfjZv9gx?usp=sharing
