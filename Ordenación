@@ -95,3 +95,5 @@ if __name__ == '__main__':
     print(lista_ordenada)
 
         lista[posicion_actual] = valor_actual
+        
+# link: https://colab.research.google.com/drive/1OJ3Nrek8xLHxqLEWeMCxXmauzfjZv9gx?usp=sharing
