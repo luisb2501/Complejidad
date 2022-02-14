@@ -51,3 +51,5 @@ if __name__ == '__main__':
 
     print(lista)
     print(f'El elemento {objetivo} {"esta" if encontrado else "no esta"} en la lista')
+   
+# link: https://colab.research.google.com/drive/1OJ3Nrek8xLHxqLEWeMCxXmauzfjZv9gx?usp=sharing
